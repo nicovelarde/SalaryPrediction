@@ -11,12 +11,7 @@ This project demonstrates a simple linear regression implementation from scratch
 - pandas
 - matplotlib
 - numpy
-
-You can install the required libraries using pip:
-
-```bash
-pip install pandas matplotlib numpy
-
+  
 ## Files
 
 salary_data.csv: The dataset containing YearsExperience and Salary.
